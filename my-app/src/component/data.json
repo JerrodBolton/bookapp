@@ -1,25 +1,4 @@
-[
-  {
-    "image_url": "https://vignette.wikia.nocookie.net/landbeforetime/images/c/c3/Cera_infobox.png/revision/latest?cb=20180422005003",
-    "title": "Cera",
-    "description": "Three horns but still, horns. And who doesn't like The Land Before Time?",
-    "keyword": "triceratops",
-    "horns": 1
-  },
-  {
-    "image_url": "https://ae01.alicdn.com/kf/HTB18GwSQVXXXXaZaXXXq6xXFXXXh/Animal-Cosplay-Costume-Narwhal-Onesie-Mens-Womens-Cartoon-Whale-Pajamas.jpg",
-    "title": "Narwhal costume",
-    "description": "A woman wearing a blue narwhal costume",
-    "keyword": "narwhal",
-    "horns": 1
-  },
-  {
-    "image_url": "https://www.shopmascot.com/image/cache/mascotnew/new196-800x800.jpg",
-    "title": "Rhino costume",
-    "description": "Mascots have to get their costumes somewhere",
-    "keyword": "rhino",
-    "horns": 2
-  },  
+[ 
   {
     "image_url": "https://www.christianartgifts.com/product-images/KJV022_1--front.jpg?resizeid=5&resizeh=1200&resizew=1200",
     "title": "Holy Bible",
@@ -71,6 +50,13 @@
   },
   {
     "image_url": "https://images-na.ssl-images-amazon.com/images/I/71zs71NYh2L.jpg",
+    "title": "World in Between",
+    "description": "An action-packed page-turner with heart about a kid doing his best during difficult times, World in Between celebrates the power of community and resilience, hope and kindness. Book recommendations, author interviews, editors' picks, and more.",
+    "keyword": "World in Between ",
+    "horns": 384
+  },
+  {
+    "image_url": "",
     "title": "World in Between",
     "description": "An action-packed page-turner with heart about a kid doing his best during difficult times, World in Between celebrates the power of community and resilience, hope and kindness. Book recommendations, author interviews, editors' picks, and more.",
     "keyword": "World in Between ",
